@@ -1,0 +1,38 @@
+body{
+    background-image: url("../images/IMG_5256.CR2.png");
+}
+.site-heading-lower {
+    color: #5a1805;
+}
+.site-heading-upper {
+    color: #a32806 !important;
+}
+.intro-text {
+    color: #380319;
+}
+.bg-spink {
+    background-color: rgba(212, 129, 129, 0.747);
+    color: #380319;
+}
+.page-section.cta{
+    background-color: rgba(110, 42, 42, 0.747);
+}
+#mainNav {
+    background-color: rgba(63, 24, 6, 0.788);
+}
+#mainNav .navbar-brand{
+    color: rgba(212, 129, 129, 0.918);
+}
+.fcolor {
+    background-color: rgba(63, 24, 6, 0.788);
+}
+.img-fluid {
+    max-width: 50%;
+
+}
+.img-fluidd {
+    max-width: 60% !important;
+}
+iframe {
+    float:right
+}
