@@ -1,0 +1,36 @@
+a{
+    text-decoration: none;
+    color: inherit;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width: 100%;
+    background-color: lavender;
+    justify-content: space-around;
+}
+li {
+    padding: 10px;
+
+}
+li:hover{
+    background-color: lightblue;
+}
+h1,h2{
+    font-family: "Bebas Neue";
+    text-align: center;
+    padding: 20px;
+}
+.footer{
+    background-color: lavender;
+}
+.footer p{
+    text-align: center;
+    font-weight: 800;
+    padding: 20px;
+}
+body {
+    background-color: lavenderblush;
+}
